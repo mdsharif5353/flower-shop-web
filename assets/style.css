@@ -1,5 +1,7 @@
  /***** Main section Start ******/
-
+body{
+  margin: 0;
+}
  .main-section {
    height: 100vh;
    display: flex;
